@@ -15,7 +15,7 @@
 
 ![alt text](pixel-imgs/testi.png)
 
-![alt text](pixel-imgs/work -p.png)
+![alt text](pixel-imgs/worksss.png)
 
 ![alt text](pixel-imgs/serv.png)
 
