@@ -2,7 +2,7 @@
 
 
 
-# PixelEdit is a Freelancing Web Application built using MERN STACK and is deployed on [PixelEdit](https://pixeledit.herokuapp.com/)
+# PixelEdit is a Freelancing Web Application built using MERN STACK.
 
 
 ![alt text](pixel-imgs/home.png)
